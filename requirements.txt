@@ -1,14 +1,14 @@
-streamlit==1.28.1
-python-docx==0.8.11
-langchain==0.1.0
-anthropic==0.7.6
-openai==1.3.0
-pandas==2.0.3
-numpy==1.24.3
-python-dotenv==1.0.0
-pydantic==2.3.0
-typing-extensions==4.7.1
+streamlit
+pandas
+numpy
+python-docx
+langchain
+anthropic
+openai
+python-dotenv
+pydantic
+typing-extensions
 plotly
-PyPDF2
+PyPDF2>=3.0.0
 
 
