@@ -11,6 +11,6 @@ typing-extensions
 plotly
 PyPDF2>=3.0.0
 nltk
-
+spacy==3.7.4
 
 
